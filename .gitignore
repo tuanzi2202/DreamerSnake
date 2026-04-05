@@ -1,0 +1,9 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 模型存档与经验池
+dreamer_snake_ckpt/
+*.pth
+*.pkl
