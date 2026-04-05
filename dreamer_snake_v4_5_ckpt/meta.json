@@ -1,0 +1,9 @@
+{
+  "version": "5.0",
+  "episode": 2344,
+  "best_reward": 669.8000000000047,
+  "state_dim": 16,
+  "latent_dim": 48,
+  "memory_size": 30000,
+  "timestamp": "2026-04-05 20:23:58"
+}
